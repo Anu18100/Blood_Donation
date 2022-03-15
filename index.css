@@ -1,0 +1,24 @@
+.slider-img{
+	height: 70vh;
+	width: 100%;
+}
+
+
+.foot{
+	background: red;
+	height: 5vh;
+	align-content: center;
+	text-align: center;
+	align-items: center;
+	position: relative;
+	top: 100px;
+	color: white;
+}
+
+.cur:hover{
+	cursor: pointer;
+}
+
+.deck{
+align-items: center;
+}
